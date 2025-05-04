@@ -22,7 +22,6 @@ def add_expense():
         "note" : note
     }
     
-
     expenses.append(expense)
     print("✅ Expense added successfully.")
 
@@ -59,3 +58,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+# check git push and pull
