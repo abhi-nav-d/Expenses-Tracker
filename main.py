@@ -21,6 +21,7 @@ def add_expense():
         "category" : category,
         "note" : note
     }
+    
 
     expenses.append(expense)
     print("✅ Expense added successfully.")
